@@ -42,8 +42,8 @@
     <!-- Navigation View -->
     <color name="navigationViewHeaderBackground">#00FFFFFF</color>
     <color name="navigationViewHeaderBackgroundDark">#00FFFFFF</color>
-    <color name="navigationViewTitle">#222222</color>
-    <color name="navigationViewTitleBack">#30000000</color>
+    <color name="navigationViewTitle">#F3F3F3</color>
+    <color name="navigationViewTitleBack">#35000000</color>
 
     <color name="navigationViewText">#444444</color>
     <color name="navigationViewTextDark">#EBEBEB</color>
@@ -92,6 +92,6 @@
 
     <!-- Wallpaper Preview -->
     <color name="wallpaperStatusBar">#66000000</color>
-    <color name="wallpaperToolbar">#00000000</color>
+    <color name="wallpaperToolbar">#66000000</color>
 
 </resources>
